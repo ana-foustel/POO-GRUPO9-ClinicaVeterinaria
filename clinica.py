@@ -1,5 +1,5 @@
 class Clinica:
-    """Gerencia os animais da clínica."""
+    "Gerencia os animais da clínica"
 
     def __init__(self):
         self.__animais = []

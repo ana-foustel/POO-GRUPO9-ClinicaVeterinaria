@@ -2,7 +2,7 @@ from animal import Animal
 
 
 class Gato(Animal):
-    """Representa um gato."""
+    "Representa um gato"
 
     def __init__(self, nome, idade, cor):
         super().__init__(nome, idade)
